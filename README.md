@@ -1,2 +1,2 @@
 ﻿# first-project
- https://github.com/Mazin-emad/first-project.git
+https://mazin-emad.github.io/first-project/
